@@ -1,0 +1,35 @@
+<marquee direction="up" scrolldelay="140">
+				<br>
+				OCCUPATION:
+				<br><br>
+				<img src="images/reviews.jpg" width="16" height="16">&nbsp;Instructor</img><br>
+				<br>
+				<img src="images/reviews.jpg" width="16" height="16">&nbsp;Programmer</img><br><br>
+				<img src="images/reviews.jpg" width="16" height="16">&nbsp;Home Boy</img><br><br>
+				<img src="images/reviews.jpg" width="16" height="16">&nbsp;House Boy</img><br><br>
+				<img src="images/reviews.jpg" width="16" height="16">&nbsp;S** Expert</img><br><br>
+				<br><br>
+				PROGRAMMING 
+				LANGUAGES:
+				<br><br>
+				<img src="images/reviews.jpg" width="16" height="16">&nbsp;TURBO C++</img><br><br>
+				<img src="images/reviews.jpg" width="16" height="16">&nbsp;C# .NET</img><br><br>
+				<img src="images/reviews.jpg" width="16" height="16">&nbsp;VB .NET</img><br><br>
+				<img src="images/reviews.jpg" width="16" height="16">&nbsp;VB 6.0</img><br><br>
+				<img src="images/reviews.jpg" width="16" height="16">&nbsp;JAVA</img><br><br>
+				<br><br>
+				SCRIPTING 
+				LANGUAGES:
+				<br><br>
+				<img src="images/reviews.jpg" width="16" height="16">&nbsp;PHP</img><br><br>
+				<img src="images/reviews.jpg" width="16" height="16">&nbsp;ASP .NET</img><br><br>
+				<img src="images/reviews.jpg" width="16" height="16">&nbsp;JAVASCRIPT</img><br><br>
+				<br><br>
+				SQL LANGUAGES:
+				<br><br>
+				<img src="images/reviews.jpg" width="16" height="16">&nbsp;ORACLE</img><br><br>
+				<img src="images/reviews.jpg" width="16" height="16">&nbsp;SQL SERVER</img><br><br>
+				<img src="images/reviews.jpg" width="16" height="16">&nbsp;MY SQL</img><br><br>
+				<img src="images/reviews.jpg" width="16" height="16">&nbsp;ACCESS</img><br><br>
+				</marquee>
+				

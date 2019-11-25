@@ -1,0 +1,12 @@
+<marquee scrolldelay="120">
+WELCOME TO OUR HOME PAGE
+			<img src="images/separator.jpg" width="50" height="10">		
+			<img src="images/separator.jpg" width="50" height="10">
+			THE GENETIC COMPUTER INSTITUTE
+			<img src="images/separator.jpg" width="50" height="10">		
+			<img src="images/separator.jpg" width="50" height="10">
+			IS A SINGAPORE BASED I.T. TRAINING SCHOOL
+			<img src="images/separator.jpg" width="50" height="10">
+			<img src="images/separator.jpg" width="50" height="10">
+			WHERE GREAT CAREER BEGINS
+</marquee>
